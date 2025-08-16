@@ -32,3 +32,49 @@ It demonstrates the complete RF signal processing chain — from baseband audio 
 ---
 
 ## 📂 Project Structure
+├── Audio signals/
+│ ├── Short_BBCArabic2.wav
+│ ├── Short_FM9090.wav
+│ ├── Short_QuranPalestine.wav
+│ ├── Short_RussianVoice.wav
+│ └── Short_SkyNewsArabia.wav
+├── Super_heterodyne_Receiver.m
+└── README.md
+
+---
+
+## 🚀 Usage
+1. **Clone this repo**:
+   ```bash
+   git clone https://github.com/Y-Wagdyyyy/SuperHeterodyne-Receiver-MATLAB.git
+2. Open MATLAB and set the working directory to the repository folder.
+
+3. Run the script:
+Super_heterodyne_Receiver
+
+4. Select a channel (1–5) when prompted.
+
+---
+
+📋 Requirements
+
+- MATLAB R2018a or newer.
+- DSP System Toolbox.
+- Audio files included in Audio signals folder.
+
+---
+
+🎯 Applications
+
+- Educational demonstration of the super-heterodyne architecture.
+- DSP and RF communication systems learning.
+- MATLAB-based radio receiver simulation.
+
+---
+
+👤 Author
+
+Youssef Wagdy
+📧 youssefwagdy68@gmail.com
+
+📜 Licensed under the MIT License – see LICENSE for details.
